@@ -43,6 +43,12 @@ Language: Python
 
 https://github.com/colour-science/colour-checker-detection
 
-# Automatic ColorChecker Detection, a Survey
+# References
+
+**Automatic ColorChecker Detection, a Survey**
 
 https://ryanfb.github.io/etc/2015/07/08/automatic_colorchecker_detection.html
+
+**GretagMacbeth-ColorChecker**
+
+https://poynton.ca/notes/color/GretagMacbeth-ColorChecker.html
