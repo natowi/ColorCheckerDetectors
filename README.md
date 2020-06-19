@@ -52,3 +52,7 @@ https://ryanfb.github.io/etc/2015/07/08/automatic_colorchecker_detection.html
 **GretagMacbeth-ColorChecker**
 
 https://poynton.ca/notes/color/GretagMacbeth-ColorChecker.html
+
+**ColorChecker**
+https://en.wikipedia.org/wiki/ColorChecker
+https://upload.wikimedia.org/wikipedia/commons/4/4f/Color_Checker.pdf
